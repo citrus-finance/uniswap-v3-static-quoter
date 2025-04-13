@@ -5,6 +5,9 @@ package-lock.json
 cache
 artifacts
 
+# Foundry files
+out
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
